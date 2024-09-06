@@ -9,3 +9,10 @@
 ## Создание и использование миграции для модели `User`
 
 ## Backup, Restore, Transaction, Rollback
+
+-- CRUD 
+
+- Create
+- Read
+- Update
+- Delete
